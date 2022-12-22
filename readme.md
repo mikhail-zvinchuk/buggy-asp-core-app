@@ -1,0 +1,1 @@
+## This repo is intended as a dummy for my statical analysis project. It intentaionally has issues. I'm hopping mo write some code to find them)
